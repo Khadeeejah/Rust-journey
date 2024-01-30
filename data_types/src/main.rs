@@ -15,3 +15,8 @@ fn main() {
     // remainder
     let remainder = 43 % 5;
 }
+
+// The character types
+Let c = 'z';
+let z :  char = 'Z'; // with explicit type annotation
+let eyed_cat_eye = '✅';
