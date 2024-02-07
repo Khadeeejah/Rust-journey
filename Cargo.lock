@@ -9,6 +9,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
+name = "christmas_carol"
+version = "0.1.0"
+
+[[package]]
+name = "control-flow"
+version = "0.1.0"
+
+[[package]]
 name = "functions"
 version = "0.1.0"
 
@@ -85,7 +93,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "rust_fibonnaci"
+version = "0.1.0"
+
+[[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "temperature_converter"
 version = "0.1.0"
 
 [[package]]
