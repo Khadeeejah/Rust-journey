@@ -28,9 +28,10 @@ fn main() {
             day + 1,
             suffix
         );
+
         for item in (0..day + 1).rev() {
             if day > 0 && item == 0 {
-                print!("And ");
+                print!("and ");
             }
             println!("{}", days[item]);
         }
