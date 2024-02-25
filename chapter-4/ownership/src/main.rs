@@ -78,3 +78,15 @@ fn makes_copy(some_integer: i32) {
     // some_integer comes into scope
     println!("{}", some_integer);
 } // Here, some_integer goes out of scope. Nothing special happens.
+
+fn main() {
+    let s1 =String::from("hello")
+    let (s2, len) = calculate_length(s1);
+    println!("The length of '{}' is {}.", s2,len);
+}
+
+fn calculate_length(s: String) -> (String, usize) {
+    let length = s.len(); // len() returns the length of a String
+
+    (s, length)
+}
