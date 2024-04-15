@@ -4,6 +4,6 @@ members = [
     "chapter-2/*",
     "chapter-3/*",
     "projects/*",
-    "chapter-4/*,",
+    "chapter-4/*",
 ]
 resolver = "2"
