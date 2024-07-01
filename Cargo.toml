@@ -7,5 +7,6 @@ members = [
     "chapter-4/*",
     "chapter-5/*",
     "chapter-6/*",
+    "chapter-7/*", "package_and_crates",
 ]
 resolver = "2"

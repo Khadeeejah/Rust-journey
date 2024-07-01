@@ -16,5 +16,5 @@ let home = IpAddr{
 
 let loopback = IpAddr{
     kind: IpAddrKind::V6,
-    address: String::from("0,9,0")
+    address: String::from("0,9,0 ")
 }
