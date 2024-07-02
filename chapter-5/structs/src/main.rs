@@ -50,8 +50,8 @@ fn main() {
 }
 
 // Using Tuple Structs Without Named Fields to Create Different Types
-Struct Colour ( i32,i32,i32);
-Struct Point ( i32,i32,i32);
+// Struct Colour ( i32,i32,i32);
+// Struct Point ( i32,i32,i32);
 
 fn main(){
     let black = Colour (0,0,0);

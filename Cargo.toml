@@ -5,8 +5,8 @@ members = [
     "chapter-3/*",
     "projects/*",
     "chapter-4/*",
-    "chapter-5/*",
-    "chapter-6/*",
-    "chapter-7/*", "package_and_crates",
+    "chapter-5/*", "chapter-7/restaurants",
+
+
 ]
 resolver = "2"

@@ -101,6 +101,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "restaurants"
+version = "0.1.0"
+
+[[package]]
 name = "rust_fibonnaci"
 version = "0.1.0"
 
